@@ -25,7 +25,7 @@ Machine Learning supervisados y no supervisados para entender la gravedad de los
 1. **Clonar el repositorio**
 
    ```bash
-   git clone git@github.com:guzmancama/DatosSinCiencia2y3.git
+   git clone git@github.com:itspablito/DatosSinCiencia2y3.git
    cd DatosSinCiencia2y3
    ```
 
